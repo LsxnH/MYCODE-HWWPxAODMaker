@@ -1,0 +1,1 @@
+root://eosuser//eos/user/d/dshope/forHWWPhysicsxAODMaker/default/DAOD_HIGG3D1_21.2.42.0_mc16a_410472_ttbar.test.pool.root

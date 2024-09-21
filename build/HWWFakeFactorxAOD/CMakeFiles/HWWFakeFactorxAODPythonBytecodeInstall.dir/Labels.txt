@@ -1,0 +1,9 @@
+# Target labels
+ HWWFakeFactorxAOD
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.pyc.rule

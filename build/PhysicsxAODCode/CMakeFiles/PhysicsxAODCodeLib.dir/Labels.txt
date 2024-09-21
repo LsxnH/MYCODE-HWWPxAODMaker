@@ -1,0 +1,19 @@
+# Target labels
+ PhysicsxAODCode
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/PhysicsxAODCode/IHWWContainersFinderTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/PhysicsxAODCode/IHWWTriggerTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWContainersFinderTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWElectronSelectionTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWJetSelectionTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWMuonSelectionTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTriggerTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthElectronSelectionTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthJetSelectionTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWContainersFinderTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWElectronSelectionTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWJetSelectionTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWMuonSelectionTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTriggerTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthElectronSelectionTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthJetSelectionTool.cxx

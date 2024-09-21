@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHFlags.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHMinixAODContent.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/WHFlags.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/ZHFlags.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/__init__.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHFlags.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHMinixAODContent.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/WHFlags.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/ZHFlags.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/__init__.pyc.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWVHxAOD"
+		],
+		"name" : "HWWVHxAODPythonBytecodeInstall"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWFakeFactorxAOD"
+		],
+		"name" : "HWWFakeFactorxAODLib"
+	}
+}

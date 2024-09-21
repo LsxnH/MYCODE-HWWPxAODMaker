@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="A950B04F-B1B1-C847-920F-49FA06ED17CE">
+    <physical>
+      <pfn filetype="ROOT_All" name="/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/mc16_13TeV/da/47/DAOD_HIGG3D1.15734729._000016.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="FC1F4447-3466-7442-9C98-8379A41054B0">
+    <physical>
+      <pfn filetype="ROOT_All" name="PAOD_WH.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>

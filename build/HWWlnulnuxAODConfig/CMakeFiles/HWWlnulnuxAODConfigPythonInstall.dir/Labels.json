@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuAnalysisFlags.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuPAODContent.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/__init__.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/HWWlnulnuAnalysisFlags.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/HWWlnulnuPAODContent.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/__init__.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuAnalysisFlags.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuPAODContent.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/__init__.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWlnulnuxAODConfig"
+		],
+		"name" : "HWWlnulnuxAODConfigPythonInstall"
+	}
+}

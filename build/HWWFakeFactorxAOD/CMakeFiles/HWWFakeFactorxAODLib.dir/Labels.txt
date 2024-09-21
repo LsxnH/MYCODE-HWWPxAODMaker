@@ -1,0 +1,5 @@
+# Target labels
+ HWWFakeFactorxAOD
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.cxx

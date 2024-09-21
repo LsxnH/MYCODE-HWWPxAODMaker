@@ -1,0 +1,7 @@
+# Regular package(s) built in HWWPhysicsxAODMaker - 1.0.0
+HWWFakeFactorxAOD HWWFakeFactorxAOD-00-00-00
+HWWVHxAOD HWWVHxAOD-00-00-00
+HWWlnulnuxAODConfig HWWlnulnuxAODConfig-00-00-00
+PhysicsxAODCode PhysicsxAODCode-00-00-00
+PhysicsxAODConfig PhysicsxAODConfig-00-00-00
+TruthWeightTools <unknown>

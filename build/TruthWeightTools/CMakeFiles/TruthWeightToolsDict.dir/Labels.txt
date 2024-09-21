@@ -1,0 +1,7 @@
+# Target labels
+ TruthWeightTools
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/CMakeFiles/TruthWeightToolsDictReflexDict.cxx
+ TruthWeightTools
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/TruthWeightToolsDict.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/selection.xml

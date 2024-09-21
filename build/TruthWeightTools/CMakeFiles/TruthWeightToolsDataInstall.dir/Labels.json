@@ -1,0 +1,58 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/VBF_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/VH_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ggF_NNLOPS_weights.XMLOLD"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ggF_NNLOPS_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ttH_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/data/VBF_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/data/VH_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/data/ggF_NNLOPS_weights.XMLOLD"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/data/ggF_NNLOPS_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/data/ttH_weights.xml"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/VBF_weights.xml.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/VH_weights.xml.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ggF_NNLOPS_weights.XMLOLD.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ggF_NNLOPS_weights.xml.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/TruthWeightTools/ttH_weights.xml.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TruthWeightTools"
+		],
+		"name" : "TruthWeightToolsDataInstall"
+	}
+}

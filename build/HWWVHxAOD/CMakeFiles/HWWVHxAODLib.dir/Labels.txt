@@ -1,0 +1,8 @@
+# Target labels
+ HWWVHxAOD
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHFlatEventBuilderAlg.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHLepSortingAlg.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/LepCombo.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHFlatEventBuilderAlg.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHLepSortingAlg.cxx

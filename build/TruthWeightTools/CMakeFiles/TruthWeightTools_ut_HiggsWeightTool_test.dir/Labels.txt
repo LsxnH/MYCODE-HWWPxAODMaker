@@ -1,0 +1,4 @@
+# Target labels
+ TruthWeightTools
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/test/ut_HiggsWeightTool_test.cxx

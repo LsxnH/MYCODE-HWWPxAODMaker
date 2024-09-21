@@ -1,0 +1,5 @@
+# Target labels
+ TruthWeightTools
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/include/TruthWeightTools
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/include/TruthWeightTools.rule

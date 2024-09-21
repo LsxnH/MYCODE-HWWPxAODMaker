@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHTruthCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/share/VHAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/share/VHCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/share/VHTruthCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHAnalysisCommon.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHCandidateBuilding.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWVHxAOD/VHTruthCandidateBuilding.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWVHxAOD"
+		],
+		"name" : "HWWVHxAODJobOptInstall"
+	}
+}

@@ -1,0 +1,2 @@
+#athena -c "INDIR='/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/mc16_13TeV/da/47';EVTMAX=100;doEffiSystematics=False;doP4Systematics=False;do3Lep=True;writePAOD_WH=True;" PhysicsxAODConfig/HWWAnalysis_topOptions.py 2>&1 | tee log.txt
+athena -c "INFILE='/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/mc16_13TeV/96/2f/DAOD_HIGG3D1.15734619._000028.pool.root.1';EVTMAX=-1;doEffiSystematics=False;doP4Systematics=False;do3Lep=True;writePAOD_WH=True;" PhysicsxAODConfig/HWWAnalysis_topOptions.py 2>&1 | tee log.txt

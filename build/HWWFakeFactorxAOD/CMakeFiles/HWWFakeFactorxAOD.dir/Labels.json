@@ -1,0 +1,25 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/HWWFakeLeptonEventBuilderAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/components/HWWFakeFactorxAOD_entries.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/src/components/HWWFakeFactorxAOD_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWFakeFactorxAOD"
+		],
+		"name" : "HWWFakeFactorxAOD"
+	}
+}

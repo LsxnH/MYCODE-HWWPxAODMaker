@@ -1,0 +1,21 @@
+# Target labels
+ PhysicsxAODConfig
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIso.root
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIsoAndCFTMedium.root
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/HWW_merged_prw_config_mc16a_FS_v1.root
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/HWW_merged_prw_config_mc16d_FS_v1.root
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/ElectronLikelihoodMediumOfflineConfig2016_withoutBLayer_Smooth.conf
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/ElectronLikelihoodTightOfflineConfig2016_withoutBLayer_Smooth.conf
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/ElectronIso/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIso.root
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/ElectronIso/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIsoAndCFTMedium.root
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/PRW/HWW_merged_prw_config_mc16a_FS_v1.root
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/PRW/HWW_merged_prw_config_mc16d_FS_v1.root
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/ElectronID/ElectronLikelihoodMediumOfflineConfig2016_withoutBLayer_Smooth.conf
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/data/ElectronID/ElectronLikelihoodTightOfflineConfig2016_withoutBLayer_Smooth.conf
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIso.root.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/efficiencySF.Isolation.TightLLH_d0z0_v11_isolLoose_PromptLeptonIsoAndCFTMedium.root.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/HWW_merged_prw_config_mc16a_FS_v1.root.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/HWW_merged_prw_config_mc16d_FS_v1.root.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/ElectronLikelihoodMediumOfflineConfig2016_withoutBLayer_Smooth.conf.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/data/PhysicsxAODConfig/ElectronLikelihoodTightOfflineConfig2016_withoutBLayer_Smooth.conf.rule

@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/src/components/TruthWeightTools_entries.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/src/components/TruthWeightTools_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TruthWeightTools"
+		],
+		"name" : "TruthWeightTools"
+	}
+}

@@ -1,0 +1,2 @@
+/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/mc16_13TeV/da/47/DAOD_HIGG3D1.15734729._000016.pool.root.1
+/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/mc16_13TeV/97/0e/DAOD_HIGG3D1.15734729._000013.pool.root.1

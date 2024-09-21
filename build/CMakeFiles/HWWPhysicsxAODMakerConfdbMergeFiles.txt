@@ -1,0 +1,4 @@
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/lib/libHWWFakeFactorxAOD.confdb
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/lib/libHWWVHxAOD.confdb
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/lib/libPhysicsxAODCode.confdb
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/lib/libTruthWeightTools.confdb

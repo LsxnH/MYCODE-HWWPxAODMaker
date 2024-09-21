@@ -1,0 +1,175 @@
+<!-- Auto-generated file, please do not edit -->
+<Project name="HWWPhysicsxAODMaker" >
+   <SubProject name="AsgTools" >
+   </SubProject>
+   <SubProject name="TriggerMatchingTool" >
+   </SubProject>
+   <SubProject name="GaudiKernel" >
+   </SubProject>
+   <SubProject name="xAODEgamma" >
+   </SubProject>
+   <SubProject name="xAODMuon" >
+   </SubProject>
+   <SubProject name="xAODEventInfo" >
+   </SubProject>
+   <SubProject name="xAODCaloEvent" >
+   </SubProject>
+   <SubProject name="xAODCore" >
+   </SubProject>
+   <SubProject name="xAODJet" >
+   </SubProject>
+   <SubProject name="xAODParticleEvent" >
+   </SubProject>
+   <SubProject name="xAODPrimitives" >
+   </SubProject>
+   <SubProject name="xAODBase" >
+   </SubProject>
+   <SubProject name="xAODBTagging" >
+   </SubProject>
+   <SubProject name="xAODMissingET" >
+   </SubProject>
+   <SubProject name="xAODTau" >
+   </SubProject>
+   <SubProject name="xAODTruth" >
+   </SubProject>
+   <SubProject name="xAODTracking" >
+   </SubProject>
+   <SubProject name="AthContainers" >
+   </SubProject>
+   <SubProject name="AthenaBaseComps" >
+   </SubProject>
+   <SubProject name="CxxUtils" >
+   </SubProject>
+   <SubProject name="AthAnalysisBaseComps" >
+   </SubProject>
+   <SubProject name="FourMomUtils" >
+   </SubProject>
+   <SubProject name="AtlasPolicy" >
+   </SubProject>
+   <SubProject name="AtlasROOT" >
+   </SubProject>
+   <SubProject name="AtlasBoost" >
+   </SubProject>
+   <SubProject name="JetCPInterfaces" >
+   </SubProject>
+   <SubProject name="JetCalibTools" >
+   </SubProject>
+   <SubProject name="JetResolution" >
+   </SubProject>
+   <SubProject name="JetInterface" >
+   </SubProject>
+   <SubProject name="JetJvtEfficiency" >
+   </SubProject>
+   <SubProject name="BoostedJetTaggers" >
+   </SubProject>
+   <SubProject name="METInterface" >
+   </SubProject>
+   <SubProject name="METUtilities" >
+   </SubProject>
+   <SubProject name="xAODBTaggingEfficiency" >
+   </SubProject>
+   <SubProject name="MuonEfficiencyCorrections" >
+   </SubProject>
+   <SubProject name="MuonMomentumCorrections" >
+   </SubProject>
+   <SubProject name="MuonSelectorTools" >
+   </SubProject>
+   <SubProject name="ElectronPhotonFourMomentumCorrection" >
+   </SubProject>
+   <SubProject name="ElectronEfficiencyCorrection" >
+   </SubProject>
+   <SubProject name="ElectronPhotonSelectorTools" >
+   </SubProject>
+   <SubProject name="PATInterfaces" >
+   </SubProject>
+   <SubProject name="PATCore" >
+   </SubProject>
+   <SubProject name="AssociationUtils" >
+   </SubProject>
+   <SubProject name="IsolationSelection" >
+   </SubProject>
+   <SubProject name="IsolationCorrections" >
+   </SubProject>
+   <SubProject name="AsgAnalysisInterfaces" >
+   </SubProject>
+   <SubProject name="JetAnalysisInterfaces" >
+   </SubProject>
+   <SubProject name="OverlapRemovalDefs" >
+   </SubProject>
+   <SubProject name="PhysicsxAODCode" >
+      <Dependency name="AsgTools" />
+      <Dependency name="TriggerMatchingTool" />
+      <Dependency name="GaudiKernel" />
+      <Dependency name="xAODEgamma" />
+      <Dependency name="xAODMuon" />
+      <Dependency name="xAODEventInfo" />
+      <Dependency name="xAODCaloEvent" />
+      <Dependency name="xAODCore" />
+      <Dependency name="xAODJet" />
+      <Dependency name="xAODParticleEvent" />
+      <Dependency name="xAODPrimitives" />
+      <Dependency name="xAODBase" />
+      <Dependency name="xAODBTagging" />
+      <Dependency name="xAODMissingET" />
+      <Dependency name="xAODTau" />
+      <Dependency name="xAODTruth" />
+      <Dependency name="xAODTracking" />
+      <Dependency name="AthContainers" />
+      <Dependency name="AthenaBaseComps" />
+      <Dependency name="CxxUtils" />
+      <Dependency name="AthAnalysisBaseComps" />
+      <Dependency name="FourMomUtils" />
+      <Dependency name="AtlasPolicy" />
+      <Dependency name="AtlasROOT" />
+      <Dependency name="AtlasBoost" />
+      <Dependency name="JetCPInterfaces" />
+      <Dependency name="JetCalibTools" />
+      <Dependency name="JetResolution" />
+      <Dependency name="JetInterface" />
+      <Dependency name="JetJvtEfficiency" />
+      <Dependency name="BoostedJetTaggers" />
+      <Dependency name="METInterface" />
+      <Dependency name="METUtilities" />
+      <Dependency name="xAODBTaggingEfficiency" />
+      <Dependency name="MuonEfficiencyCorrections" />
+      <Dependency name="MuonMomentumCorrections" />
+      <Dependency name="MuonSelectorTools" />
+      <Dependency name="ElectronPhotonFourMomentumCorrection" />
+      <Dependency name="ElectronEfficiencyCorrection" />
+      <Dependency name="ElectronPhotonSelectorTools" />
+      <Dependency name="PATInterfaces" />
+      <Dependency name="PATCore" />
+      <Dependency name="AssociationUtils" />
+      <Dependency name="IsolationSelection" />
+      <Dependency name="IsolationCorrections" />
+      <Dependency name="AsgAnalysisInterfaces" />
+      <Dependency name="JetAnalysisInterfaces" />
+      <Dependency name="OverlapRemovalDefs" />
+   </SubProject>
+   <SubProject name="HWWFakeFactorxAOD" >
+      <Dependency name="PhysicsxAODCode" />
+   </SubProject>
+   <SubProject name="HWWVHxAOD" >
+      <Dependency name="PhysicsxAODCode" />
+   </SubProject>
+   <SubProject name="HWWlnulnuxAODConfig" >
+      <Dependency name="PhysicsxAODCode" />
+   </SubProject>
+   <SubProject name="PhysicsxAODConfig" >
+      <Dependency name="PhysicsxAODCode" />
+   </SubProject>
+   <SubProject name="PMGAnalysisInterfaces" >
+   </SubProject>
+   <SubProject name="PMGTools" >
+   </SubProject>
+   <SubProject name="PathResolver" >
+   </SubProject>
+   <SubProject name="TruthWeightTools" >
+      <Dependency name="PMGAnalysisInterfaces" />
+      <Dependency name="AsgTools" />
+      <Dependency name="AthenaBaseComps" />
+      <Dependency name="GaudiKernel" />
+      <Dependency name="PMGTools" />
+      <Dependency name="PathResolver" />
+   </SubProject>
+</Project>

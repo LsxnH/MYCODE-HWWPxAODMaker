@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/python/HWWFakeFactorFlags.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/python/HWWFakeFactorPAODContent.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/python/__init__.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWFakeFactorxAOD"
+		],
+		"name" : "HWWFakeFactorxAODPythonInstall"
+	}
+}

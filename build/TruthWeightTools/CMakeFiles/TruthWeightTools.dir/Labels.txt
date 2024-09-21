@@ -1,0 +1,5 @@
+# Target labels
+ TruthWeightTools
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/src/components/TruthWeightTools_entries.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/src/components/TruthWeightTools_load.cxx

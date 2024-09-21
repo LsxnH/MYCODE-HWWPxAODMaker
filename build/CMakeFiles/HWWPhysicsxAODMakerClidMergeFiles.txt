@@ -1,0 +1,4 @@
+/home/hengli/testarea/HWWPxAODMaker/build/HWWFakeFactorxAOD/HWWFakeFactorxAOD_clid.db
+/home/hengli/testarea/HWWPxAODMaker/build/HWWVHxAOD/HWWVHxAOD_clid.db
+/home/hengli/testarea/HWWPxAODMaker/build/PhysicsxAODCode/PhysicsxAODCode_clid.db
+/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/TruthWeightTools_clid.db

@@ -1,0 +1,151 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/PhysicsxAODCode/IHWWContainersFinderTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/PhysicsxAODCode/IHWWTriggerTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWContainersFinderTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWElectronSelectionTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWJetSelectionTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWMuonSelectionTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTriggerTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthElectronSelectionTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthJetSelectionTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWContainersFinderTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWElectronSelectionTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWJetSelectionTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWMuonSelectionTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTriggerTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthElectronSelectionTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/Root/HWWTruthJetSelectionTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWBtagScaleFactorAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWElectronCalibrationSmearingAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWElectronDecorationAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWElectronScaleFactorAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWEventInfoDecorationAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWEventSelectionAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWFatJetDecorationAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWFullEventBuilderAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWGoodRunsListSelectionAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWJetCalibrationSmearingAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWJetDecorationAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWJetEventCleaningAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWJetJVTScaleFactorAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMETCalibrationSmearingAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMETMakerAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMETReducerAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMuonCalibrationSmearingAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMuonDecorationAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMuonScaleFactorAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWMuonTriggerEfficiencyScaleFactorAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWOverlapRemovalAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWPrimaryVertexFilterAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWTriggerAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWTruthAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWTruthJetMETAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWTruthLeptonAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWTruthOverlapRemovalAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/HWWUnprescaleDataAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/components/PhysicsxAODCode_entries.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODCode/src/components/PhysicsxAODCode_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PhysicsxAODCode"
+		],
+		"name" : "PhysicsxAODCode"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeFactorAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeLeptonEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWReadTest.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWlnulnuThinning.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/readxAOD.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWFakeFactorAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWFakeLeptonEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWReadTest.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWlnulnuThinning.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/readxAOD.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeFactorAnalysisCommon.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeLeptonEventCandidateBuilding.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWReadTest.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWlnulnuThinning.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/readxAOD.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWFakeFactorxAOD"
+		],
+		"name" : "HWWFakeFactorxAODJobOptInstall"
+	}
+}

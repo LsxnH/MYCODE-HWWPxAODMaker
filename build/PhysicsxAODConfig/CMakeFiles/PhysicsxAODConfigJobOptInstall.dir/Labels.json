@@ -1,0 +1,247 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommonReco.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommonTruth.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysis_topOptions.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEfficiencyScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEfficiencyScaleFactorOnlyRun.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWElectronCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWElectronSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEventPreSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWFatJetCalibration.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWFatJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWJetCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMETBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMuonCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMuonSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWOverlapRemoval.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTriggerMatching.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthElectronSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthFlagging.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthMuonSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthObjectMod.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthOverlapRemoval.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/PAODMerge.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/PAODReduce.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWAnalysisCommonReco.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWAnalysisCommonTruth.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWAnalysis_topOptions.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWEfficiencyScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWEfficiencyScaleFactorOnlyRun.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWElectronCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWElectronSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWEventPreSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWFatJetCalibration.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWFatJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWJetCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWMETBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWMuonCalibrationScaleFactor.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWMuonSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWOverlapRemoval.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTriggerMatching.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthElectronSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthFlagging.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthJetSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthMuonSelection.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthObjectMod.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/HWWTruthOverlapRemoval.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/PAODMerge.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/PhysicsxAODConfig/share/PAODReduce.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommon.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommonReco.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysisCommonTruth.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWAnalysis_topOptions.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEfficiencyScaleFactor.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEfficiencyScaleFactorOnlyRun.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWElectronCalibrationScaleFactor.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWElectronSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWEventPreSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWFatJetCalibration.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWFatJetSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWJetCalibrationScaleFactor.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWJetSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMETBuilding.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMuonCalibrationScaleFactor.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWMuonSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWOverlapRemoval.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTriggerMatching.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthElectronSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthFlagging.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthJetSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthMuonSelection.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthObjectMod.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/HWWTruthOverlapRemoval.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/PAODMerge.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsxAODConfig/PAODReduce.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PhysicsxAODConfig"
+		],
+		"name" : "PhysicsxAODConfigJobOptInstall"
+	}
+}

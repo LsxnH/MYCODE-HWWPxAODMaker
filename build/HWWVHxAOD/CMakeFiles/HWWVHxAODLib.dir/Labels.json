@@ -1,0 +1,28 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHFlatEventBuilderAlg.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHLepSortingAlg.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/LepCombo.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHFlatEventBuilderAlg.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/src/HWWVHLepSortingAlg.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWVHxAOD"
+		],
+		"name" : "HWWVHxAODLib"
+	}
+}

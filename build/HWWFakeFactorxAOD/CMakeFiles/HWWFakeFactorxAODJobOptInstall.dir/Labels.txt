@@ -1,0 +1,18 @@
+# Target labels
+ HWWFakeFactorxAOD
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeFactorAnalysisCommon.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeLeptonEventCandidateBuilding.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWReadTest.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWlnulnuThinning.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/readxAOD.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWFakeFactorAnalysisCommon.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWFakeLeptonEventCandidateBuilding.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWReadTest.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/HWWlnulnuThinning.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWFakeFactorxAOD/share/readxAOD.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeFactorAnalysisCommon.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWFakeLeptonEventCandidateBuilding.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWReadTest.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/HWWlnulnuThinning.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWFakeFactorxAOD/readxAOD.py.rule

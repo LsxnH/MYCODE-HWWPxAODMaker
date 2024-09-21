@@ -1,0 +1,9 @@
+# Target labels
+ TruthWeightTools
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/HiggsWeightTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/HiggsWeights.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/IHiggsWeightTool.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/TruthWeightToolsDict.h
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/Root/HiggsWeightTool.cxx
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/Root/HiggsWeights.cxx

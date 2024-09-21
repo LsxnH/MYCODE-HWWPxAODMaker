@@ -1,0 +1,67 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWReadTest.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuThinning.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuTruthEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/readxAOD.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/HWWReadTest.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/HWWlnulnuAnalysisCommon.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/HWWlnulnuEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/HWWlnulnuThinning.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/HWWlnulnuTruthEventCandidateBuilding.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/share/readxAOD.py"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWReadTest.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuAnalysisCommon.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuEventCandidateBuilding.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuThinning.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/HWWlnulnuTruthEventCandidateBuilding.py.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/jobOptions/HWWlnulnuxAODConfig/readxAOD.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWlnulnuxAODConfig"
+		],
+		"name" : "HWWlnulnuxAODConfigJobOptInstall"
+	}
+}

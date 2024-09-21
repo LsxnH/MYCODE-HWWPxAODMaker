@@ -1,0 +1,13 @@
+# Target labels
+ HWWVHxAOD
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHFlags.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHMinixAODContent.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/WHFlags.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/ZHFlags.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/__init__.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHFlags.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHMinixAODContent.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/WHFlags.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/ZHFlags.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/__init__.pyc.rule

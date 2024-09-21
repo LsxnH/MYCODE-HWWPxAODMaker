@@ -1,0 +1,1 @@
+import py_compile; py_compile.compile( '/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWVHxAOD/python/VHMinixAODContent.py', cfile = '/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWVHxAOD/VHMinixAODContent.pyc', doraise = True )

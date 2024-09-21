@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/CMakeFiles/TruthWeightToolsDictDictGen"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/CMakeFiles/TruthWeightToolsDictDictGen.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/CMakeFiles/TruthWeightToolsDict.dsomap.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TruthWeightTools"
+		],
+		"name" : "TruthWeightToolsDictDictGen"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ PhysicsxAODConfig
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/CommonPAODContent.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/HWWCommonAnalysisFlags.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/HWWCommonHelpers.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/SelectDFEventsAlg.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/__init__.pyc
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/CommonPAODContent.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/HWWCommonAnalysisFlags.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/HWWCommonHelpers.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/SelectDFEventsAlg.pyc.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/PhysicsxAODConfig/__init__.pyc.rule

@@ -1,0 +1,26 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/TruthWeightTools/CMakeFiles/TruthWeightToolsDictReflexDict.cxx",
+			"labels" : 
+			[
+				"TruthWeightTools"
+			]
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/TruthWeightToolsDict.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/selection.xml"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TruthWeightTools"
+		],
+		"name" : "TruthWeightToolsDict"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.pyc"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorFlags.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/HWWFakeFactorPAODContent.pyc.rule"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWFakeFactorxAOD/__init__.pyc.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"HWWFakeFactorxAOD"
+		],
+		"name" : "HWWFakeFactorxAODPythonBytecodeInstall"
+	}
+}

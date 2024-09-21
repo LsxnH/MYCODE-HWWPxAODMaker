@@ -1,0 +1,31 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/HiggsWeightTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/HiggsWeights.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/IHiggsWeightTool.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/TruthWeightTools/TruthWeightToolsDict.h"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/Root/HiggsWeightTool.cxx"
+		},
+		{
+			"file" : "/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/TruthWeightTools/Root/HiggsWeights.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TruthWeightTools"
+		],
+		"name" : "TruthWeightToolsLib"
+	}
+}

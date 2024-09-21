@@ -1,0 +1,4 @@
+libHWWVHxAOD.so:HWW::VHFlatEventBuilderAlg
+libHWWVHxAOD.so:HWW::VHLepSortingAlg
+libHWWVHxAOD.so:HWW__VHFlatEventBuilderAlg
+libHWWVHxAOD.so:HWW__VHLepSortingAlg

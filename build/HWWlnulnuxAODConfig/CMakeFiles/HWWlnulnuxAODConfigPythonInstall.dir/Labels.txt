@@ -1,0 +1,12 @@
+# Target labels
+ HWWlnulnuxAODConfig
+# Source files and their labels
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuAnalysisFlags.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuPAODContent.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/__init__.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/HWWlnulnuAnalysisFlags.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/HWWlnulnuPAODContent.py
+/home/hengli/testarea/HWWPxAODMaker/HWWPhysicsxAODMaker/HWWlnulnuxAODConfig/python/__init__.py
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuAnalysisFlags.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/HWWlnulnuPAODContent.py.rule
+/home/hengli/testarea/HWWPxAODMaker/build/x86_64-slc6-gcc62-opt/python/HWWlnulnuxAODConfig/__init__.py.rule
